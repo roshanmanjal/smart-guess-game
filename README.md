@@ -1,2 +1,2 @@
-# smart-guess-game
-Number guessing game with difficulty levels and scoring
+# Jarvis Assistant
+Voice-controlled personal assistant built using Python
